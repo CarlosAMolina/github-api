@@ -1,0 +1,3 @@
+# /bin/bash
+# Script to install pip requirements.
+pip install -r requests_custom/requirements.txt

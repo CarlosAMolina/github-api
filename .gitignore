@@ -1,0 +1,10 @@
+# GitHub repositories.
+requests_custom/
+
+# Python.
+__pycache__
+env/
+*.pyc
+
+# Vim.
+*.swp
